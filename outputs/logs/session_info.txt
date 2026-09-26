@@ -1,0 +1,44 @@
+R version 4.3.3 (2024-02-29)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS 15.6
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] C/C.UTF-8/C/C/C/C
+
+time zone: Asia/Kolkata
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] broom_1.0.8             ResourceSelection_0.3-6 ranger_0.17.0           pROC_1.18.5            
+ [5] caret_7.0-1             lattice_0.22-5          nortest_1.0-4           car_3.1-3              
+ [9] carData_3.0-5           janitor_2.2.1           ragg_1.3.0              jsonlite_1.8.8         
+[13] scales_1.3.0            ggplot2_3.5.2           tibble_3.2.1            purrr_1.0.2            
+[17] forcats_1.0.0           stringr_1.5.1           tidyr_1.3.1             dplyr_1.1.4            
+[21] readr_2.1.5            
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.1     timeDate_4032.109    farver_2.1.1         digest_0.6.35       
+ [5] rpart_4.1.23         timechange_0.3.0     lifecycle_1.0.4      survival_3.5-8      
+ [9] magrittr_2.0.3       compiler_4.3.3       rlang_1.1.6          tools_4.3.3         
+[13] utf8_1.2.4           data.table_1.17.8    labeling_0.4.3       bit_4.0.5           
+[17] plyr_1.8.9           abind_1.4-5          withr_3.0.0          nnet_7.3-19         
+[21] grid_4.3.3           stats4_4.3.3         fansi_1.0.6          e1071_1.7-16        
+[25] colorspace_2.1-0     future_1.40.0        globals_0.17.0       iterators_1.0.14    
+[29] MASS_7.3-60.0.1      cli_3.6.5            crayon_1.5.2         generics_0.1.3      
+[33] future.apply_1.11.3  reshape2_1.4.4       tzdb_0.5.0           proxy_0.4-27        
+[37] splines_4.3.3        parallel_4.3.3       vctrs_0.6.5          hardhat_1.4.1       
+[41] Matrix_1.6-5         hms_1.1.3            bit64_4.0.5          Formula_1.2-5       
+[45] listenv_0.9.1        systemfonts_1.0.6    foreach_1.5.2        gower_1.0.2         
+[49] recipes_1.3.1        glue_1.7.0           parallelly_1.45.0    codetools_0.2-19    
+[53] lubridate_1.9.3      stringi_1.8.3        gtable_0.3.6         munsell_0.5.0       
+[57] pillar_1.9.0         ipred_0.9-15         lava_1.8.1           R6_2.5.1            
+[61] textshaping_0.3.7    vroom_1.6.5          backports_1.4.1      snakecase_0.11.1    
+[65] class_7.3-22         Rcpp_1.0.12          nlme_3.1-164         prodlim_2025.04.28  
+[69] pkgconfig_2.0.3      ModelMetrics_1.2.2.2

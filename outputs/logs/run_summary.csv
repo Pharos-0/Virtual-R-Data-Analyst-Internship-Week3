@@ -1,0 +1,5 @@
+"script","status","seconds","log"
+"R/01_data_import.R","OK",0.6,"outputs/logs/01_data_import_console.txt"
+"R/02_data_cleaning.R","OK",0.3,"outputs/logs/02_data_cleaning_console.txt"
+"R/05_statistical_analysis.R","OK",1,"outputs/logs/05_statistical_analysis_console.txt"
+"R/06_predictive_model.R","OK",222.1,"outputs/logs/06_predictive_model_console.txt"
